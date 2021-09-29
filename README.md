@@ -3,9 +3,11 @@
 </p>
 
 ## **About Me** 
-Hello! My name is **Shree Kottes J**. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning most of the development tools. And my daily driver is [Windows 10](https://www.microsoft.com/en-in/software-download/windows10). And I occasionally use [Arch Linux](https://archlinux.org) and [Ubuntu](https://ubuntu.com) for testing out things.
+
+Hello! My name is **Shree Kottes J**. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning some of the development tools. And my daily driver is [Windows 10](https://www.microsoft.com/en-in/software-download/windows10). And I occasionally use [Arch Linux](https://archlinux.org) and [Ubuntu](https://ubuntu.com) for testing out things.
 
 ## **Tools**
+
 <p align = "center">
 <a href="https://code.visualstudio.com">
          <img alt="VS Code" src="https://github.com/ShreeKottesJ/ShreeKottesJ/blob/master/assests/VScode.png?raw=true" width="36px" height="36px">
@@ -30,6 +32,21 @@ Hello! My name is **Shree Kottes J**. I am currently in the last year of my high
 </a>
 
 </p>
+
+## **Links**
+<a href="https://www.linkedin.com/in/shreekottes/">
+         <img alt="Linkedin" src="" width="36px" height="36px">
+</a>
+<a href="https://git-scm.com">
+         <img alt="Git" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/dbc626fc49234c4e6ba1c906b011997830d95a6b/assests/Git.svg" width="36px" height="36px">
+</a>
+<a href="https://git-scm.com">
+         <img alt="Git" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/dbc626fc49234c4e6ba1c906b011997830d95a6b/assests/Git.svg" width="36px" height="36px">
+</a>
+
+
+
+
 
 
 
