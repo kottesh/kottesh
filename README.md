@@ -1,4 +1,6 @@
-<img align="right" img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" width='150' >
+<p align = "center">
+<img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" width="100px" height="100px" >
+</p>
 
 ## **About Me** 
 Hello! My name is **Shree Kottes J**. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning most of the development tools. And my daily driver is [Windows 10](https://www.microsoft.com/en-in/software-download/windows10). And I occasionally use [Arch Linux](https://archlinux.org) and [Ubuntu](https://ubuntu.com) for testing out things.
