@@ -34,15 +34,14 @@ Hello! My name is **Shree Kottes J**. I am currently in the last year of my high
 </p>
 
 ## **Links**
+<p align='center'>
 <a href="https://www.linkedin.com/in/shreekottes/">
-         <img alt="Linkedin" src="" width="36px" height="36px">
+         <img alt="Linkedin" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/2fb78c8c1c64647a9bbf3ef96b569029b04044f3/assests/social/linkedin-icon.svg" width="36px" height="36px">
 </a>
-<a href="https://git-scm.com">
-         <img alt="Git" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/dbc626fc49234c4e6ba1c906b011997830d95a6b/assests/Git.svg" width="36px" height="36px">
+<a href="https://twitter.com/ShreeKottes">
+         <img alt="Git" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/2fb78c8c1c64647a9bbf3ef96b569029b04044f3/assests/social/twitter-official.svg" width="36px" height="36px">
 </a>
-<a href="https://git-scm.com">
-         <img alt="Git" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/dbc626fc49234c4e6ba1c906b011997830d95a6b/assests/Git.svg" width="36px" height="36px">
-</a>
+
 
 
 
