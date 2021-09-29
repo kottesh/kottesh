@@ -1,5 +1,7 @@
 <p align = "center">
-<img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" width="100px" height="100px" >
+<a href="https://shreekottes.me">
+         <img alt="SK Logo" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" width="100px" height="100px">
+</a>
 </p>
 
 ## **About Me** 
