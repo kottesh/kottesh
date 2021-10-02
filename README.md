@@ -1,8 +1,10 @@
 # **About Me**
-<aside float: "left">
-<img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" style="float:right;width:100px;height:100px;"><p>
+
+<img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" style="padding: 10px; float:left;width:100px;height:100px;">
+<br>
+<p>
 Hello! My name is <strong>Shree Kottes J</strong>. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning some of the development tools. And my daily driver is <a herf="https://www.microsoft.com/en-in/software-download/windows10">Windows 10</a>. And I occasionally use <a href="https://archlinux.org">Arch Linux</a> and <a href="https://ubuntu.com">Ubuntu</a> for testing out things.
-</p></aside>
+</p>
 
 
 
