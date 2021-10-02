@@ -1,5 +1,5 @@
 # **About Me**
-<aside align="left">
+<aside float: "left">
 <img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" style="float:right;width:100px;height:100px;"></aside>
 
 <p>
