@@ -1,12 +1,10 @@
-<p align = "center">
-<a href="https://shreekottes.me" target="_blank">
-         <img alt="SK Logo" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" width="100px" height="100px">
-</a>
+# **About Me**
+<aside>
+<img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" style="float:right;width:100px;height:100px;"></aside>
+
+<p>
+Hello! My name is <strong>Shree Kottes J</strong>. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning some of the development tools. And my daily driver is <a herf="https://www.microsoft.com/en-in/software-download/windows10">Windows 10</a>. And I occasionally use <a href="https://archlinux.org">Arch Linux</a> and <a href="https://ubuntu.com">Ubuntu</a> for testing out things.
 </p>
-
-## **About Me** 
-
-Hello! My name is **Shree Kottes J**. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning some of the development tools. And my daily driver is [Windows 10](https://www.microsoft.com/en-in/software-download/windows10). And I occasionally use [Arch Linux](https://archlinux.org) and [Ubuntu](https://ubuntu.com) for testing out things.
 
 ## **Tools**
 
@@ -43,6 +41,11 @@ Hello! My name is **Shree Kottes J**. I am currently in the last year of my high
 <a href="https://twitter.com/ShreeKottes">
          <img alt="Git" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/2fb78c8c1c64647a9bbf3ef96b569029b04044f3/assests/social/twitter-official.svg" width="36px" height="36px">
 </a>
+
+
+
+
+
 
 
 
