@@ -46,4 +46,17 @@ Hello! My name is **Shree Kottes J**. I am currently in the last year of my high
   </a>
 </p>
 
+<details>
+<summary><b>Github Stats</b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ShreeKottesJ&theme=radical" >
+</details>
+
+<details>
+<summary><b>Most Used Languages</b></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeKottesJ&layout=compact" >
+</details>
+
+
+
+
 
