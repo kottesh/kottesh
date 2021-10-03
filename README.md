@@ -2,12 +2,12 @@
 
 ### Hi there, I'm Shree Kottes J
 
-#### Student | Programmer | Linux fanatic
+## Student | Programmer | Linux fanatic
 
 
 Hello! My name is **Shree Kottes J**. I am currently in the last year of my high school. I am a person who is sitting most of the time infront of the computers. I am currently learning some of the development tools. And my daily driver is [Windows 10](https://www.microsoft.com/en-in/software-download/windows10). And I occasionally use <a href="https://archlinux.org">[Arch Linux](https://archlinux.org) and [Ubuntu](https://ubuntu.com) for testing out things.
 
-##### **Tools I use for development**
+### **Tools I use for development**
 <p align = "center">
  
   <a href="https://code.visualstudio.com">
@@ -33,7 +33,7 @@ Hello! My name is **Shree Kottes J**. I am currently in the last year of my high
   </a>
 </p>
 
-##### **Links**
+### **Links**
 <p align='center'>
   <a href="https://www.linkedin.com/in/shreekottes/">
     <img alt="Linkedin" src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/2fb78c8c1c64647a9bbf3ef96b569029b04044f3/assests/social/linkedin-icon.svg" width="28px" height="28px">
