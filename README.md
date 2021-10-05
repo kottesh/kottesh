@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" align="right" width=100px>
+<a href="https://shreekottes.me"><img src="https://raw.githubusercontent.com/ShreeKottesJ/ShreeKottesJ/b0395d3d590bb97ce06f9b5bb74480949191bdf0/assests/SK.svg" align="right" width=100px></a>
 
 ## Hi there, I'm Shree Kottes J
 
