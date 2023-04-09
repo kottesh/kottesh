@@ -1,4 +1,4 @@
-<a href="https://shreekottes.me"><img style="border-radius=8px;" src="https://user-images.githubusercontent.com/67730727/194824591-2b6c2553-7af9-42dc-9121-f410c3bb3c8f.gif" align="right" width=100px></a>
+<a href="https://shreekottes.me"><img style="border-radius: 14px;" src="https://user-images.githubusercontent.com/67730727/194824591-2b6c2553-7af9-42dc-9121-f410c3bb3c8f.gif" align="right" width=100px></a>
 
 ## Hi there, I'm Shree Kottes J
 
@@ -55,8 +55,3 @@ Hello! My name is **Shree Kottes J**. I am currently in the last year of my high
 <summary><b>Most Used Languages</b></summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeKottesJ&layout=compact" >
 </details>
-
-
-
-
-
