@@ -1,4 +1,4 @@
-<a href="https://shreekottes.me"><img style="border-radius: 14px;" src="https://user-images.githubusercontent.com/67730727/194824591-2b6c2553-7af9-42dc-9121-f410c3bb3c8f.gif" align="right" width=100px></a>
+<a href="https://shreekottes.me"><img style="border-radius: 14px;" src="https://user-images.githubusercontent.com/67730727/231141212-8df72314-8801-4305-b84a-9181bb6fd5a5.gif" align="right" width=100px></a>
 
 ## Hi there, I'm Shree Kottes J
 
